@@ -2,7 +2,7 @@
 ---
 
 ### **Título do Projeto:**
-Impacto das Mudanças Climáticas na Agricultura
+[Impacto das Mudanças Climáticas na Agricultura](notebook/EDA.ipynb)
 
 ### **Descrição:**
 Este projeto visa analisar o impacto das mudanças climáticas na agricultura utilizando um conjunto de dados relevante. O objetivo é entender diferentes variáveis climáticas podem afetar a produção agrícola e entender os padrões que podem ser utilizados para a tomada de decisão na área.
